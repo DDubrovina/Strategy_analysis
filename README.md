@@ -87,10 +87,11 @@ _Задачи исследования_:
 
 Также [дообучили](https://github.com/DDubrovina/Strategy_analysis/blob/main/Code/Models/Llama2%20tuning.ipynb) предобученную опенсурсную модель с открытым исходным кодом TheBloke/OpenBuddy-Llama2-13B-v11.1-GPTQ на наборе данных из оглавлений при помощи QLora. QLoRA, один из новейших методов, который уменьшает использование памяти при тонкой настройке LLM без компромиссов в производительности, используя класс `LoraConfig` из библиотеки `peft`.
 
-## Результаты
+## [Результаты](https://github.com/DDubrovina/Strategy_analysis/blob/main/Analisys/Svod.xlsx)
 
 ### Результаты по пунктам оглавления
 ![Результаты по пунктам оглавления](https://github.com/DDubrovina/Strategy_analysis/blob/main/images/%D0%A0%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B%20%D0%BF%D0%BE%20%D0%BF%D1%83%D0%BD%D0%BA%D1%82%D0%B0%D0%BC%20%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F.png)
 
 ### Результаты по регионам
 ![Результаты по регионам](https://github.com/DDubrovina/Strategy_analysis/blob/main/images/%D0%A0%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B%20%D0%BF%D0%BE%20%D1%80%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%D0%BC.png)
+
